@@ -1,0 +1,44 @@
+2023-04-02 21:02:11,129 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.5.4
+  Buildtime        2022-12-23 15:55
+  Python version   3.11
+  Excel version    16.0 (64 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2023-04-02 21:02:11,484 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\Excel\Excel_HW7\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x64/py311/res/release/pyxll.py", line 8550, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2023-04-02 21:02:11,658 - WARNING : *** win32api could not be imported.                ***
+2023-04-02 21:02:11,660 - WARNING : *** Some of the ribbon examples will not work.     ***
+2023-04-02 21:02:11,660 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2023-04-02 21:02:11,692 - INFO : The license will expire on 2023-05-01 (29 days left)
+2023-04-02 21:10:13,881 - INFO : callbacks.on_close: PyXLL is closing
+2023-04-02 21:10:25,296 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.5.4
+  Buildtime        2022-12-23 15:55
+  Python version   3.11
+  Excel version    16.0 (64 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2023-04-02 21:10:25,664 - WARNING : aiohttp could not be imported. Async example will not work
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\Excel\Excel_HW7\examples\asyncfunc.py", line 24, in <module>
+    import aiohttp
+  File "build/x64/py311/res/release/pyxll.py", line 8550, in __import_hook
+ModuleNotFoundError: No module named 'aiohttp'
+2023-04-02 21:10:25,737 - WARNING : *** win32api could not be imported.                ***
+2023-04-02 21:10:25,737 - WARNING : *** Some of the ribbon examples will not work.     ***
+2023-04-02 21:10:25,737 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2023-04-02 21:10:25,794 - INFO : The license will expire on 2023-05-01 (29 days left)
+2023-04-02 21:17:52,002 - INFO : callbacks.on_close: PyXLL is closing
